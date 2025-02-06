@@ -32,8 +32,12 @@
 
  body > .container {
   margin-top: 20px;
-  background-color: lightgray;
+  
   border-radius: 5px;
+ }
+
+ .main {
+  background-color: lightgray;
  }
 
  textarea{
@@ -46,6 +50,22 @@
 
 .center h1 {
   margin-bottom: 10px;
+}
+
+/* footer */
+
+.footer {
+ display: flex;
+} 
+
+footer nav {
+  justify-content: flex-end;
+  padding-right: 20px;
+  flex: 1;
+}
+
+footer nav ul li {
+  gap: 1em;
 }
 
 /* typography */
