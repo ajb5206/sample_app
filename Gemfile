@@ -18,7 +18,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem "bootstrap-sass",  "3.4.1"
 gem "sass-embedded", "~> 1.85"
-gem "sprockets-rails", "3.4.2"
+gem "sprockets-rails", "3.5.2"
 gem "bcrypt", "3.1.18"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
