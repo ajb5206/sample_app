@@ -17,7 +17,7 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 gem "bootstrap-sass",  "3.4.1"
-gem "sass-embedded", "~> 1.85"
+gem "sass-embedded", "~> 1.87"
 gem "sprockets-rails", "3.4.2"
 gem "bcrypt", "3.1.18"
 
